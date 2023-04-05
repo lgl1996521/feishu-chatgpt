@@ -6,7 +6,7 @@ APP_VERIFICATION_TOKEN: vKKYlfQ1nWZTR1xfUGc2sece3kODxSNZ
 # 请确保和飞书应用管理平台中的设置一致
 BOT_NAME: ChatGPT
 # openAI key 支持负载均衡 可以填写多个key 用逗号分隔
-OPENAI_KEY: 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
+OPENAI_KEY: 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
 # 服务器配置
 HTTP_PORT: 9000
 HTTPS_PORT: 9001
