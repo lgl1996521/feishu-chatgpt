@@ -1,10 +1,10 @@
 #  飞书
-APP_ID: cli_a4a7a56fac38100d
-APP_SECRET: oemw7kLibjVCi1eXGHGzybZ15GFeCMlM
-APP_ENCRYPT_KEY: VEwytW8ySVP1zdVbfqoOFdFYQ7boBxXN
-APP_VERIFICATION_TOKEN: vKKYlfQ1nWZTR1xfUGc2sece3kODxSNZ
-# 请确保和飞书应用管理平台中的设置一致
-BOT_NAME: ChatGPT
+APP_ID: cli_a4a4dd8ba7b3d00b
+APP_SECRET: 5ijdWvy2IyclUEAvPjxWneDbNPQnkkCT
+APP_ENCRYPT_KEY: EetkpCxoYBStnAupVHCMIb56OPMAL23X
+APP_VERIFICATION_TOKEN: 1IcP0l9iIOjcEq2JiYtAFfpzVOnAk8jK
+# 请确保和飞书应用管理平台中的设置一致 
+BOT_NAME: OpenAI
 # openAI key 支持负载均衡 可以填写多个key 用逗号分隔
 OPENAI_KEY: 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
 # 服务器配置
